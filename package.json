@@ -1,0 +1,10 @@
+{
+  "name": "cart3r-ai-no-key",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CART3R AI Hub avec clé API conservée côté serveur",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^5.1.0", "express-rate-limit": "^8.1.0" }
+}
